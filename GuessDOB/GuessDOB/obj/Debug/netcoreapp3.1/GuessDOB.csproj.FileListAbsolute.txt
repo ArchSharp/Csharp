@@ -1,0 +1,13 @@
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.exe
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.deps.json
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.runtimeconfig.json
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.runtimeconfig.dev.json
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.dll
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\bin\Debug\netcoreapp3.1\GuessDOB.pdb
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.csprojAssemblyReference.cache
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.AssemblyInfoInputs.cache
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.AssemblyInfo.cs
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.csproj.CoreCompileInputs.cache
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.dll
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.pdb
+C:\Users\Raphael\source\repos\GuessDOB\GuessDOB\obj\Debug\netcoreapp3.1\GuessDOB.genruntimeconfig.cache
